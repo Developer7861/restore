@@ -1,4 +1,5 @@
-this text created jar files
+this text created jar files 
+           in maven projects
   
   mvn archetype:generate \
     -DgroupId=in.Developer7861 \
