@@ -1,0 +1,7 @@
+this text created jar files
+  
+  mvn archetype:generate \
+    -DgroupId=in.Developer7861 \
+    -DartifactId=chatbot \
+    -DarchetypeArtifactid=maven-archetype-webapp \
+    -DinteractiveMode=false
