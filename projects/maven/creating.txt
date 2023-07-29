@@ -6,3 +6,6 @@ this text created jar files
     -DartifactId=chatbot \
     -DarchetypeArtifactid=maven-archetype-webapp \
     -DinteractiveMode=false
+
+this test created war files 
+            in maven projects
