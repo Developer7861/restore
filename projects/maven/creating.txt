@@ -9,3 +9,10 @@ this text created jar files
 
 this test created war files 
             in maven projects
+
+
+mvn archetype:generate
+  -DgroupId=in.Developer7861
+  -DartifactId=chatbot-server
+  -DarchetypeGroupId=org.apache.maven.archetypes
+  -DarchetypeArtifactId=maven-archetype-webapp
